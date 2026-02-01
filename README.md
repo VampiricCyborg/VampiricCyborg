@@ -9,9 +9,9 @@ Currently working on
     
 Currently learning
 
-    Cloud fundamentals and system design
-    How large-scale systems handle data, failures, and tradeoffs
-    Improving problem-solving depth through LeetCode
+    Applied AI system design (RAG, embeddings, retrieval)
+    Cloud fundamentals for scalable AI systems
+    Failure modes in AI-assisted software
 --------------------------------------------------------------------------------------------------------
 PROJECTS
 
