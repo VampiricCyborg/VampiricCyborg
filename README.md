@@ -33,18 +33,4 @@ Education    : B.E. CSE @ Chennai Institute of Technology
 </tr>
 </table>
 
-<br>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-ms/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/madhav_ms/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VampiricCyborg)
-
-</div>
-
-<br>
-
-<blockquote>
-"Build systems you understand, not just applications that work."
-</blockquote>
