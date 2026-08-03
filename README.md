@@ -14,7 +14,7 @@
 MADHAV M S
 ----------
 Alias        : VampiricCyborg
-Email        : (add your email here)
+Email        : madhavmsoff030307@gmail.com
 LinkedIn     : madhav-ms (linkedin.com/in/madhav-ms)
 LeetCode     : madhav_ms (leetcode.com/u/madhav_ms)
 GitHub       : VampiricCyborg (github.com/VampiricCyborg)
@@ -22,10 +22,6 @@ Website      : geekedmadhav.vercel.app
 Location     : Chennai, India
 Education    : B.E. CSE @ Chennai Institute of Technology
                BS Data Science & Applications @ IIT Madras
-Focus        : Generative AI, RAG, FastAPI, Cloud, AI Safety
-Status       : In the deep end.
-Philosophy   : "Build systems you understand, not just
-                applications that work."
 ```
 
 </td>
