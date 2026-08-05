@@ -13,24 +13,21 @@
 ```
 MADHAV M S
 ----------
-Alias        : VampiricCyborg
 Email        : madhavmsoff030307@gmail.com
 LinkedIn     : madhav-ms (linkedin.com/in/madhav-ms)
 LeetCode     : madhav_ms (leetcode.com/u/madhav_ms)
 GitHub       : VampiricCyborg (github.com/VampiricCyborg)
 Website      : geekedmadhav.vercel.app
 Location     : Chennai, India
-Education    : B.E. CSE @ Chennai Institute of Technology
+Education    : B.E. CSE @ Chennai Institute of Technology &
                BS Data Science & Applications @ IIT Madras
 ```
 
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/175649227?v=4" width="220" style="border-radius:8px"/>
+<img src="assets/github_dotted_cat.svg" width="220"/>
 
 </td>
 </tr>
 </table>
-
-
