@@ -1,29 +1,28 @@
 <table>
 <tr>
-<td valign="top" width="45%">
+<td width="50%" valign="top">
 
-**MADHAV M S**
+### 👋 MADHAV M S
 
-NOW Building Cairn
+**🚧 NOW Building** — Cairn
 
-PREVIOUS nml-cli
-Trustless verification CLI
+**✅ PREVIOUS** — nml-cli (Trustless verification CLI)
 
-LEARNING AI Evals · Distributed Systems · AI infra
+**📚 LEARNING** — AI Evals · Distributed Systems · AI infra
 
-TECH STACK Python · TypeScript · FastAPI ·
-React · Docker
+**🛠️ TECH STACK** — Python · TypeScript · FastAPI · React · Docker
 
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://geekedmadhav.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-ms/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/madhav_ms/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VampiricCyborg)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-link)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VampiricCyborg)
 
 </td>
-<td valign="top" width="55%" align="center">
+<td width="50%" align="center">
 
-<img src="assets/detective_cat.png" width="360" alt="detective cat"/>
+<img src="assets/detective_cat.png" width="380"/>
 
 </td>
 </tr>
