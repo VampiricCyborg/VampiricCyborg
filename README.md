@@ -4,13 +4,12 @@
 
 ### 👋 MADHAV M S
 
-**🚧 NOW Building** — Vigilarch
+**🚧 NOW Building** — Cairn
 
 **✅ PREVIOUS** — nml-cli, Trustless verification CLI
 
 **📚 LEARNING** — AI Evals · Distributed Systems · AI infra
 
-**🛠️ TECH STACK** — Python · TypeScript · FastAPI · React · Docker
 
 <br>
 
